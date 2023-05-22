@@ -153,9 +153,9 @@ button{
 	height: 30px;
 	width: 100px;
 	font-family: 'Dosis', sans-serif;
-    text-align: initial;
+    /* text-align: initial;
 	text-shadow: none;
-    text-align: center;
+    text-align: center; */
     margin:10px;
    
     
